@@ -1,3 +1,6 @@
 kubesphere/ks-controller-manager:v3.3.0
 kubesphere/ks-console:v3.3.0
 mysql:8.0.33
+kubesphere/ks-apiserver:v3.3.0
+minio/minio:RELEASE.2019-08-07T01-59-21Z
+kubesphere/openpitrix-jobs:v3.2.1
