@@ -1,13 +1,1 @@
-kubesphere/ks-controller-manager:v3.3.0
-kubesphere/ks-console:v3.3.0
-mysql:8.0.33
-kubesphere/ks-apiserver:v3.3.0
-minio/minio:RELEASE.2019-08-07T01-59-21Z
-kubesphere/openpitrix-jobs:v3.2.1
-kubesphere/prometheus-operator:v0.55.1
-kubesphere/kube-rbac-proxy:v0.11.0
-csiplugin/snapshot-controller:v4.0.0
-kubesphere/notification-manager:v1.4.0
-kubesphere/notification-tenant-sidecar:v3.2.0
-redis:6.2.6-alpine
-codiumai/pr-agent:latest
+gerritcodereview/gerrit:3.10.4
