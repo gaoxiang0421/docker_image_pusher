@@ -1,1 +1,1 @@
-gerritcodereview/gerrit:3.10.4
+library/python:3.9-slim
