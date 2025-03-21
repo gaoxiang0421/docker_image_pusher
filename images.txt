@@ -1,1 +1,1 @@
-library/python:3.9-slim
+semaphoreui/semaphore:latest
