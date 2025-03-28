@@ -1,1 +1,2 @@
-semaphoreui/semaphore:latest
+docker.io/library/nginx:alpine
+docker.io/library/node:18-alpine
