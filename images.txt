@@ -1,1 +1,1 @@
-bitnami/kubectl:latest
+docker:20.10.16-dind
