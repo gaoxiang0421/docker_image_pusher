@@ -1,1 +1,5 @@
-enix/x509-certificate-exporter:latest
+postgres:14.4
+bitnami/zookeeper:3.8
+bitnami/kafka:2.8.2
+nacos/nacos-server:2.1.2
+maven:3.9.9-jdk-8
