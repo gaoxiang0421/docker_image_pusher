@@ -1,1 +1,1 @@
-bitnami/kafka:2.8.1
+postgis/postgis:14-3.4
