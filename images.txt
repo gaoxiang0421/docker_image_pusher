@@ -1,1 +1,1 @@
-nacos/nacos-server:v2.1.2
+bitnami/kafka:2.8.2
