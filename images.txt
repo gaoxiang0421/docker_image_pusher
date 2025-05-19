@@ -1,3 +1,2 @@
 zookeeper:3.9.3
-wurstmeister/kafka:2.13-2.8.2
-postgres:14.4
+wurstmeister/kafka:2.8.2
